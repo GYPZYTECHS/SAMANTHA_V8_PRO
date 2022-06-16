@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /TovinoBotV3
 fi
-cd /TovinoBotV3
+cd /SAMANTHA_V8_PRO
 pip3 install -U -r requirements.txt
-echo "Starting 𝘋𝘒_𝘉𝘖𝘛𝘹...."
+echo "Starting SAMANTHA...."
 python3 bot.py
