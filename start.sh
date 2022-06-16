@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/DKBOTx/TovinoBotV3.git /TovinoBotV3
+  git clone https://github.com/GYPZYTECHS/SAMANTHA_V8_PRO
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /TovinoBotV3
