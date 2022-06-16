@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>𝖧i {}, <b>𝖭𝗂𝖼𝖾 𝗍𝗈 𝗆𝖾𝖾𝗍 𝗒𝗈𝗎 🙌</b>
-<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
+<i>𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺𝚗 𝚄𝙻𝚃𝚁𝙰 𝙰𝙳𝚅𝙰𝙽𝙲𝙴𝙳 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍</i>
 
 <i>i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂n</i>
 """
@@ -24,8 +24,8 @@ class script(object):
 - /stickerid - 𝖦𝖾𝗍 𝖨𝖣
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆e : Tᴏᴠɪɴᴏ
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/aboutme_DK'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+○ 𝖬𝗒 𝖭𝖺𝗆e : ༄𝑆𝑎𝑚𝑎𝑛𝑡ℎ𝑎☆𝐴𝑘𝑘𝑖𝑛𝑒𝑛𝑖࿐
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/MALAYALI_DUDE'>𝕊𝕞𝕡 🇮🇳 </a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
@@ -33,11 +33,11 @@ class script(object):
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa]
 """
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝖳𝗈𝗏𝗂𝗇𝗈 𝖨𝗌 𝖺 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍 𝖻𝗒 𝖳𝖾𝖺𝗆 @DK_BOTx  
+- 𝖳𝗈𝗏𝗂𝗇𝗈 𝖨𝗌 𝖺 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍 𝖻𝗒 @MALAYALI_DUDE & TEAM
 
 CODES:
 
-» https://github.com/DKBOTx/TovinoBotV3
+SOURCE CODE IS PRIVATE NOW,ASK MY DEV 🧚‍♂️
 """
     TTS_TXT = """<b>TEXT TO SPEACH</b>
 Simple Telegram Text-To-Speech Module.
