@@ -135,7 +135,7 @@ async def next_page(bot, query):
 async def advantage_spoll_choker(bot, query):
     _, user, movie_ = query.data.split('#')
     if int(user) != 0 and query.from_user.id != int(user):
-        return await query.answer("𝖲𝗐𝖺𝗇𝗍𝗁𝖺𝗆𝖺𝗒𝗂 𝖲𝖾𝖺𝗋𝖼𝗁 𝖢𝗁𝖾𝗒𝖺𝖽𝖺 𝖬𝗈𝗐𝗇𝖾", show_alert=True)
+        return await query.answer("🧚‍♂️THIS IS NOT YOUR REQUEST, SEND A REQUEST YOURSELF BUDDY", show_alert=True)
     if movie_ == "close_spellcheck":
         return await query.message.delete()
     movies = SPELL_CHECK.get(query.message.reply_to_message.message_id)
@@ -150,7 +150,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('This Movie Not Found In DataBase')
+            k = await query.message.edit('Sorry File not Found. Please Check The spelling. If not Admins Will Add it soon as possible 🥺 ')
             await asyncio.sleep(10)
             await k.delete()
 
