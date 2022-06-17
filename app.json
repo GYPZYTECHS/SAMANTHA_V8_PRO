@@ -1,5 +1,5 @@
 {
-    "name": "Tovino Bot V3",
+    "name": "SAMANTHA V8",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -17,8 +17,8 @@
       "Redirect Bot",
       "Tovino Bot"
     ],
-    "website": "https://github.com/DKBOTx/TovinoBotV3",
-    "repository": "https://github.com/DKBOTx/TovinoBotV3",
+    "website": "https://github.com/GYPZYTECHS/SAMANTHA_V8_PRO",
+    "repository": "https://github.com/GYPZYTECHS/SAMANTHA_V8_PRO",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
