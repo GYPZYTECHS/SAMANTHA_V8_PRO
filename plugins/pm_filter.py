@@ -151,7 +151,7 @@ async def advantage_spoll_choker(bot, query):
             await auto_filter(bot, query, k)
         else:
             btn = [InlineKeyboardButton("🔍ᴄʜᴇᴄᴋ ꜱᴘᴇʟʟɪɴɢ🔎", url=f'https://google.com/search?q={query}')]
-            k = await query.message.edit("✷Requested movie":{query.message}
+            k = await query.message.edit("✷Requested movie":{query}
 
 Not available Right Now
 ✷Possible Causes : 🤔
