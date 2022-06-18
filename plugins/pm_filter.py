@@ -1158,7 +1158,7 @@ async def advantage_spell_chok(msg):
     zz1 = await zz.edit("Did you mean any one of these?  🤓",
                     reply_markup=InlineKeyboardMarkup(btn))
     await asyncio.sleep(10)
-    zz2 = await zz1.edit('check Whether it is released or not in OTT 👺')
+    zz2 = await zz1.edit('Not available Right Now \n✷Possible Causes : 🤔\n\n ۝Not released yet\n ۝Unwanted texts in Msgs\n ۝Asking theatre prints \n ۝Not in my Database')
     
     await asyncio.sleep(2)
     await zz2.delete()
