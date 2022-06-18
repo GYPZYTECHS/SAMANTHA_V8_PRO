@@ -79,6 +79,16 @@
             "value": "https://telegra.ph/TovinoBotV3-05-23",
             "required": false
         },
+        "UPSTREAM_REPO":{
+            "description": "ENTER YOUR UPSTREAM REPO",
+            "value": "THANKS TO MALAYALI_DUDE",
+            "required": false
+        },
+        "SINGLE_BUTTON":{
+            "description": "TRUE IF YOU NEED SINGLE BUTTON",
+            "value": "OKDA",
+            "required": false
+        },
         "UNAUTHORIZED_CALLBACK_TEXT":{
             "description": "Text to show when unauthorized user tries to use bot. Defaults to 'oKda' (200 Char Limit).",
             "value": "𝙏𝙃𝙄𝙎 𝙄𝙎 𝙉𝙊𝙏 𝙂𝙐𝘿 𝘿𝙐𝘿𝙀",
